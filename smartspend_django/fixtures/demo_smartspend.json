@@ -1,0 +1,28 @@
+[
+  {
+    "model": "accounts.financialaccount",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "name": "Chase Premier Checking [Demo]",
+      "account_type": "bank",
+      "opening_balance": "6450.00",
+      "currency": "USD",
+      "institution": "JPMorgan Chase",
+      "is_archived": false
+    }
+  },
+  {
+    "model": "accounts.financialaccount",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "name": "Ally High-Yield Vault [Demo]",
+      "account_type": "bank",
+      "opening_balance": "18500.00",
+      "currency": "USD",
+      "institution": "Ally Bank",
+      "is_archived": false
+    }
+  }
+]

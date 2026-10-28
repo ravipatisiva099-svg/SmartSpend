@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend",
+  "description": "Personal finance management web application for tracking accounts, transactions, category budgets, savings goals, recurring rules, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
